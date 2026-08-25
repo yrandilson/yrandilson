@@ -176,8 +176,7 @@ Reconstrução completa do servidor doméstico do zero, com disciplina de docume
 
 <p align="center">
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrandilson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-</p>
+ 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yrandilson&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
