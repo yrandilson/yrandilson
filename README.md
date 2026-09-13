@@ -5,7 +5,7 @@
   </h1>
 
   <p>
-    <strong>IRNDEVSC</strong><br>
+    <strong>IRNDEVS</strong><br>
     Desenvolvimento Fullstack, Automação e Análise de Dados
   </p>
 
