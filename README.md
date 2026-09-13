@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+IRNDEVS+%F0%9F%91%8B;Fullstack+%26+Automocao;Seguranca+%7C+Dados+%7C+IA%2FML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=IRNDEVS+%F0%9F%92%9C;Fullstack+%26+Automa%C3%A7%C3%A3o;Seguran%C3%A7a+%7C+Dados+%7C+IA%2FML" alt="Typing SVG" />
   </h1>
 
   <p>
@@ -56,9 +56,9 @@
 
 <br>
 
-### 🖥️ serv-irn — Home Server / Infra Lab
+### 🖥️ serv-irn — Infraestrutura própria
 
-Reconstrução completa do servidor doméstico do zero, com disciplina de documentação.
+Ambiente de infraestrutura mantido do zero, com disciplina de documentação, usado como base pros projetos da IRNDEVS.
 
 | Categoria | Serviços |
 |-----------|----------|
@@ -139,13 +139,13 @@ Reconstrução completa do servidor doméstico do zero, com disciplina de docume
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Sobre a IRNDEVS
 
-- 🔭 Construindo e mantendo meu **homelab** (serv-irn) com Docker, K3s, Proxmox e pilha completa de observabilidade
-- 🌱 Aprofundando em **Segurança Cibernética** e **Infraestrutura/Observabilidade**
-- 💡 Aprendo fazendo — prefiro montar ambientes reais a seguir tutoriais
-- 📊 Trajetória anterior com dados (IBGE, digitação, agente de endemias)
-- 🤝 Uso IA como mentoria técnica contínua
+- 🔭 Infraestrutura própria (**serv-irn**) com Docker, K3s, Proxmox e pilha completa de observabilidade
+- 🌱 Foco em **Segurança Cibernética** e **Infraestrutura/Observabilidade**
+- 💡 Ambientes reais em vez de tutoriais — cada projeto nasce de um problema prático
+- 📊 Bagagem em dados e processos (IBGE, automação, integração)
+- 🤝 IA integrada como parte do fluxo de desenvolvimento
 
 <br>
 
@@ -173,10 +173,6 @@ Reconstrução completa do servidor doméstico do zero, com disciplina de docume
 ---
 
 ### 📈 Estatísticas
-
-<p align="center">
-  
- 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yrandilson&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
