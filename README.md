@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+IRNDEVS+%F0%9F%91%8B;Fullstack+%26+Automocao;Seguranca+%7C+Dados%C3%A7a+%7C+IA%2FML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+IRNDEVS+%F0%9F%91%8B;Fullstack+%26+Automocao;Seguranca+%7C+Dados+%7C+IA%2FML" alt="Typing SVG" />
   </h1>
 
   <p>
