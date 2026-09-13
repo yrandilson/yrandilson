@@ -5,12 +5,12 @@
   </h1>
 
   <p>
-    <strong>Estudante de Sistemas de Informação — UFC</strong><br>
-    Infraestrutura, Observabilidade e Automação de Plataformas
+    <strong>IRNDEVSC</strong><br>
+    Desenvolvimento Fullstack, Automação e Análise de Dados
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=yrandilson&label=Visualiza%C3%A7%C3%B5es&color=7C3AED&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=IRNDEVS&label=Visualiza%C3%A7%C3%B5es&color=7C3AED&style=flat-square" />
   </p>
 
   <p>
